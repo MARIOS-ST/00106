@@ -10,7 +10,7 @@
 - **[ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ](https://github.com/MARIOS-ST/00106/blob/main/README.md#%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%B5%CF%83-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%B5%CF%83)**<br/>
 - **[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](https://github.com/MARIOS-ST/00106/blob/de325f4dec457cb7ceedf2f48a8b915b8396aca5/%CE%A4%CE%95%CE%A7%CE%9D%CE%99%CE%9A%CE%97%20%CE%91%CE%9D%CE%91%CE%A6%CE%9F%CE%A1%CE%91_00106.pdf)**<br/>
 - **[ΠΡΟΒΛΗΜΑ](https://github.com/MARIOS-ST/00106/blob/main/README.md#%CF%80%CF%81%CE%BF%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1)**<br/>
-- **ΚΩΔΙΚΑΣ**<br/>
+- **[ΕΓΚΑΤΑΣΤΑΣΗ]()**<br/>
 
 ## ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ 
 Το πρόβλημα που καλούμαστε να υλοποιήσουμε είναι της κατηγορίας NPC (np –
@@ -34,10 +34,11 @@ complete) πιο συγκεκριμένα :
 με μάθημα που θα πρέπει να δώσει ο σπουδαστής. Θα χρησιμοποιηθούν κώδικες 
 χρωματισμού γράφων ώστε να βρεθεί μία αξιόλογη λύση στο πρόβλημα. <br>
 
-## Required hardware and software:
-CPU: 64bit<br/>
-Windows 64bit<br/>
-Ram: 4Gb<br/>
+## ΕΓΚΑΤΑΣΤΑΣΗ
+Για να λειτουργήσει ο κώδικας πρέπει να κατεβάσετε το [φάκελο](https://github.com/MARIOS-ST/00106/tree/main/main/java) και να αποθηκεύσετε στον υπολογιστή σας.<br> 
+Ο κώδικας είναι γραμμένος σε Java. <br>
+Χρησημοποίησα Intellij Idea για την υλοποήση. <br>
+
 
 ## Licence: This code is created by Ilias Lamprou
 You can use it for educational use<br/>
