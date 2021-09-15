@@ -9,7 +9,7 @@
 ## ΠΕΡΙΕΧΟΜΕΝΑ 
 - **[ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ](https://github.com/MARIOS-ST/00106/blob/main/README.md#%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%B5%CF%83-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%B5%CF%83)**<br/>
 - **[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](https://github.com/MARIOS-ST/00106/blob/de325f4dec457cb7ceedf2f48a8b915b8396aca5/%CE%A4%CE%95%CE%A7%CE%9D%CE%99%CE%9A%CE%97%20%CE%91%CE%9D%CE%91%CE%A6%CE%9F%CE%A1%CE%91_00106.pdf)**<br/>
-- **ΠΡΟΒΛΗΜΑ**<br/>
+- **[ΠΡΟΒΛΗΜΑ]()**<br/>
 - **ΚΩΔΙΚΑΣ**<br/>
 
 ## ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ 
