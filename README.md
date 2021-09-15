@@ -7,11 +7,11 @@
 
 
 ## ΠΕΡΙΕΧΟΜΕΝΑ 
-- **ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ**<br/>
+- **[ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ](https://github.com/MARIOS-ST/00106/blob/main/README.md#%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%B5%CF%83-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%B5%CF%83)**<br/>
 - **ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ**<br/>
 - **ΠΡΟΒΛΗΜΑ**<br/>
 - **ΚΩΔΙΚΑΣ**<br/>
-[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](https://github.com/MARIOS-ST/00106/blob/main/README.md#%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%B5%CF%83-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%B5%CF%83)
+
 ## ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ 
 Το πρόβλημα που καλούμαστε να υλοποιήσουμε είναι της κατηγορίας NPC (np –
 complete) πιο συγκεκριμένα : 
