@@ -40,8 +40,5 @@ complete) πιο συγκεκριμένα :
 Χρησημοποίησα Intellij Idea για την υλοποήση. <br>
 
 
-## Licence: This code is created by Ilias Lamprou
-You can use it for educational use<br/>
-Contact us for commercial use<br/>
 
-Dec 31 2019
+2020-2021 <br>
