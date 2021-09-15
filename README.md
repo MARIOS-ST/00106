@@ -23,11 +23,16 @@ complete) πιο συγκεκριμένα :
 είναι αληθής. <br>
 ## ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ 
 [ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](https://github.com/MARIOS-ST/00106/blob/de325f4dec457cb7ceedf2f48a8b915b8396aca5/%CE%A4%CE%95%CE%A7%CE%9D%CE%99%CE%9A%CE%97%20%CE%91%CE%9D%CE%91%CE%A6%CE%9F%CE%A1%CE%91_00106.pdf)
-## Other folders:
-generator folder: <br/>
-    *knapsack_gen.c*      : Contains the code of the knapsack generator (C++ code)<br/>
-    *knapsackFilesCreator*: This utility calls the knapsack generator to create 320 problems files (C++ code)<br/>
-    *oneClickCreator*     : MsDos batch file that calls the knapsackFilesCreator to create all the necessary knapsack problems <br/>
+## ΠΡΟΒΛΗΜΑ
+Στην συγκεκριμένη εργασία εξάμηνου καλούμαστε να υλοποιήσουμε τον κώδικα για 
+την επίλυση ενός προβλήματος για εξετάσεις ακαδημαϊκού εξαμήνου ώστε το 
+πρόγραμμα εξετάσεων να είναι αποδοτικό για όλους τους σπουδαστές. Η εργασίας 
+γίνεται στο περιβάλλον intellij idea με γλώσσα προγραμματισμού Java. Καλούμαστε 
+να δώσουμε λύση σε ένα πρόβλημα στο όποιο θα βγαίνουν αποτελέσματα και το 
+πρόγραμμα εξεταστικής με βάση τους σπουδαστές και τα μαθήματα που καλούνται 
+να δώσουν. Το κάθε μάθημα δεν θα πρέπει να πέφτει σε ίδια ώρα και ημερομηνία 
+με μάθημα που θα πρέπει να δώσει ο σπουδαστής. Θα χρησιμοποιηθούν κώδικες 
+χρωματισμού γράφων ώστε να βρεθεί μία αξιόλογη λύση στο πρόβλημα. <br>
 
 ## Required hardware and software:
 CPU: 64bit<br/>
