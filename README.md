@@ -22,7 +22,7 @@ complete) πιο συγκεκριμένα :
 προσομοίωση άλλων προβλημάτων και να ελέγξουμε γρήγορα ότι η λύση 
 είναι αληθής. <br>
 ## ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ 
-   [Contribution guidelines for this project](https://github.com/MARIOS-ST/00106/blob/de325f4dec457cb7ceedf2f48a8b915b8396aca5/%CE%A4%CE%95%CE%A7%CE%9D%CE%99%CE%9A%CE%97%20%CE%91%CE%9D%CE%91%CE%A6%CE%9F%CE%A1%CE%91_00106.pdf)
+[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](https://github.com/MARIOS-ST/00106/blob/de325f4dec457cb7ceedf2f48a8b915b8396aca5/%CE%A4%CE%95%CE%A7%CE%9D%CE%99%CE%9A%CE%97%20%CE%91%CE%9D%CE%91%CE%A6%CE%9F%CE%A1%CE%91_00106.pdf)
 ## Other folders:
 generator folder: <br/>
     *knapsack_gen.c*      : Contains the code of the knapsack generator (C++ code)<br/>
